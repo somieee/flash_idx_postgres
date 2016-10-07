@@ -1,0 +1,15 @@
+LOG:  813 dasom : i, 16392, 0, M
+LOG:  824 dasom : i, 16392, 290, M
+LOG:  825 dasom : i, 16392, 3, M
+LOG:  826 dasom : i, 16392, 1, M
+LOG:  827 dasom : r, 16389, 7772, M
+LOG:  828 dasom : i, 16392, 290, H
+LOG:  829 dasom : i, 16392, 3, H
+LOG:  830 dasom : i, 16392, 1, H
+LOG:  831 dasom : r, 16389, 7772, H
+LOG:  dasom : standard_executor dest : 2
+LOG:  901 dasom : i, 16392, 290, H
+LOG:  902 dasom : i, 16392, 3, H
+LOG:  903 dasom : i, 16392, 1, H
+LOG:  904 dasom : r, 16389, 7772, H
+LOG:  905 dasom : r, 16389, 91162, M
